@@ -8,6 +8,7 @@ export default defineConfig({
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             { text: '首页', link: 'https://www.bgwa.cn' },
+            { text: 'git仓库', link: 'https://github.com/starrystar-tech' },
             { text: '前端', link: '/frontend' },
             { text: '后端', link: '/backend' }
         ],
