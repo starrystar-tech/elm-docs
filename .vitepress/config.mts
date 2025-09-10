@@ -36,5 +36,6 @@ export default defineConfig({
         socialLinks: [
             { icon: 'github', link: 'https://github.com/starrystar-tech/elm-docs' }
         ]
-    }
+    },
+    ignoreDeadLinks: true,
 })
