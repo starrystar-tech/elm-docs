@@ -21,11 +21,20 @@ export default defineConfig({
                     { text: '快速启动(前端项目)', link: '/frontend' },
                     { text: '快速启动(后端项目)', link: '/backend' }
                 ]
+            },
+            {
+                text: 'CRM',
+            },
+            {
+                text: 'ERP',
+            },
+            {
+                text: '商城',
             }
         ],
 
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+            { icon: 'github', link: 'https://github.com/starrystar-tech/elm-docs' }
         ]
     }
 })
