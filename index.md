@@ -13,6 +13,14 @@ https://docs.bgwa.cn/
 
 https://docs.bgwa.cn/
 
+### git 仓库
+| 仓库地址 | 地址 |
+| --- | --- |
+| github | 前端项目 https://github.com/starrystar-tech/elm-frontend <br>后端项目 https://github.com/starrystar-tech/elm-backend <br>文档地址 https://github.com/starrystar-tech/elm-docs|
+| gitee | 前端项目 https://gitee.com/starrystar-tech/elm-frontend <br>后端项目 https://gitee.com/starrystar-tech/elm-backend <br>文档地址 https://gitee.com/starrystar-tech/elm-docs|
+
+
+
 ### 启动
 * 安装nodejs 安装18以上版本
 
