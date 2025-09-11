@@ -8,10 +8,9 @@
 https://docs.bgwa.cn/
 
 ### 技术栈
-* markdown
-* vitepress
+* [markdown](https://markdown.com.cn/)
+* [vitepress](https://vitepress.dev/)
 
-https://docs.bgwa.cn/
 
 ### git 仓库
 | 仓库地址 | 地址 |
