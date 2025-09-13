@@ -18,6 +18,7 @@ export default defineConfig({
                 text: '新手必读',
                 items: [
                     { text: '交流群', link: '/chatgroup' },
+                    { text: '外包服务', link: '/cooperation' },
                     { text: '快速启动(前端项目)', link: '/frontend' },
                     { text: '快速启动(后端项目)', link: '/backend' }
                 ]
