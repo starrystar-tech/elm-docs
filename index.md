@@ -3,9 +3,10 @@
 
 
 ---专注于企业信息化建设，深度融合AI技术，赋能数字化转型，驱动企业智慧升级
-### 体验地址
+### 地址
 
-https://docs.bgwa.cn/
+体验地址 https://elm.softfocus.cn/ <br>
+文档地址 https://docs.softfocus.cn//
 
 ### 技术栈
 * [markdown](https://markdown.com.cn/)
